@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/homepage.jsp=UTF-8
+encoding//src/com/briup/base/Customer.java=UTF-8
+encoding//src/com/briup/bean/ReginsterServlet.java=UTF-8
+encoding//src/com/briup/upload/DownLoadServlet.java=UTF-8
+encoding//src/com/briup/upload/UpLoadServlet.java=UTF-8
